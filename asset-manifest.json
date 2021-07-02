@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Virtual-Campus/static/css/main.5a4ca7f8.chunk.css",
+    "main.js": "/Virtual-Campus/static/js/main.09f58bcd.chunk.js",
+    "main.js.map": "/Virtual-Campus/static/js/main.09f58bcd.chunk.js.map",
+    "runtime-main.js": "/Virtual-Campus/static/js/runtime-main.b4b6758d.js",
+    "runtime-main.js.map": "/Virtual-Campus/static/js/runtime-main.b4b6758d.js.map",
+    "static/js/2.e974ad2c.chunk.js": "/Virtual-Campus/static/js/2.e974ad2c.chunk.js",
+    "static/js/2.e974ad2c.chunk.js.map": "/Virtual-Campus/static/js/2.e974ad2c.chunk.js.map",
+    "index.html": "/Virtual-Campus/index.html",
+    "static/css/main.5a4ca7f8.chunk.css.map": "/Virtual-Campus/static/css/main.5a4ca7f8.chunk.css.map",
+    "static/js/2.e974ad2c.chunk.js.LICENSE.txt": "/Virtual-Campus/static/js/2.e974ad2c.chunk.js.LICENSE.txt",
+    "static/media/Harsh.d24ff708.png": "/Virtual-Campus/static/media/Harsh.d24ff708.png",
+    "static/media/Madhav2.066cc9de.png": "/Virtual-Campus/static/media/Madhav2.066cc9de.png",
+    "static/media/Sanket.08ad7893.png": "/Virtual-Campus/static/media/Sanket.08ad7893.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b6758d.js",
+    "static/js/2.e974ad2c.chunk.js",
+    "static/css/main.5a4ca7f8.chunk.css",
+    "static/js/main.09f58bcd.chunk.js"
+  ]
+}
